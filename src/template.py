@@ -1,6 +1,6 @@
 from typing import Optional, List, Dict
 import textwrap
-from ..schema import ExtractedUnits, BinaryQuestion
+from .schema import ExtractedUnits, BinaryQuestion
 
 class TruthfulnessTemplate:
 
